@@ -18,7 +18,7 @@ foreach ($csv as $row) {
        'currencyNamePlural' => $currencies[$currencyCode]['name_plural'] ?? '',
        'currencyDecimalDigits' =>  $currencies[$currencyCode]['decimal_digits'] ?? 2,
        'currencyRounding' =>  $currencies[$currencyCode]['rounding'] ?? 0,
-       'numericCurrencyCode' => $row[3],
+       'numericCurrencyCode' => $row[4],
        
    ];
 }
