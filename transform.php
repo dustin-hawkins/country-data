@@ -14,11 +14,11 @@ foreach ($csv as $row) {
        'currencyCode' => $currencyCode,
        'currencySymbol' => $currencies[$currencyCode]['symbol_native'] ?? $currencyCode,
        'name' => $row[0],
-       'currencyName' => $row[2],
-       'currencyNamePlural' => $currencies[$currencyCode]['name_plural'] ?? '',
-       'currencyDecimalDigits' =>  $currencies[$currencyCode]['decimal_digits'] ?? 2,
-       'currencyRounding' =>  $currencies[$currencyCode]['rounding'] ?? 0,
-       'numericCurrencyCode' => $row[4],
+ //      'currencyName' => $row[2],
+   //    'currencyNamePlural' => $currencies[$currencyCode]['name_plural'] ?? '',
+     //  'currencyDecimalDigits' =>  $currencies[$currencyCode]['decimal_digits'] ?? 2,
+       //'currencyRounding' =>  $currencies[$currencyCode]['rounding'] ?? 0,
+       //'numericCurrencyCode' => $row[4],
        
    ];
 }
