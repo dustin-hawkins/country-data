@@ -2,7 +2,7 @@
 
 $csv = array_map('str_getcsv', file('countries.csv'));
 $headers = array_shift($csv);
-$currencies = json_decode(file_get_contents('currencies.json'), true);
+$currencies = json_decode(file_get_contents('Common-Currency.json'), true);
 $json = [];
 
 foreach ($csv as $row) {
@@ -15,7 +15,7 @@ foreach ($csv as $row) {
        'currencySymbol' => $currencies[$currencyCode]['symbol_native'] ?? $currencyCode,
        'name' => $row[0],
        'currencyName' => $row[2],
-       'currencyNamePlural' => $currencies[$currencyCode]['name_plural'] ?? $row[2],
+       'currencyNamePlural' => $currencies[$currencyCode]['name_plural'] ?? '',
        'currencyDecimalDigits' =>  $currencies[$currencyCode]['decimal_digits'] ?? 2,
        'currencyRounding' =>  $currencies[$currencyCode]['rounding'] ?? 0,
        'numericCurrencyCode' => $row[3],

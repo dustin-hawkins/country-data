@@ -2,21 +2,21 @@
     "af": {
         "countryCode": "AF",
         "currencyCode": "AFN",
-        "currencySymbol": "AFN",
+        "currencySymbol": "؋",
         "name": "Afghanistan",
         "currencyName": "Afghan Afghani",
-        "currencyNamePlural": "Afghan Afghani",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Afghan Afghanis",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "afn"
     },
     "ax": {
         "countryCode": "AX",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Åland Islands",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -24,21 +24,21 @@
     "al": {
         "countryCode": "AL",
         "currencyCode": "ALL",
-        "currencySymbol": "ALL",
+        "currencySymbol": "Lek",
         "name": "Albania",
         "currencyName": "Albanian Lek",
-        "currencyNamePlural": "Albanian Lek",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Albanian lekë",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "all"
     },
     "dz": {
         "countryCode": "DZ",
         "currencyCode": "DZD",
-        "currencySymbol": "DZD",
+        "currencySymbol": "د.ج.‏",
         "name": "Algeria",
         "currencyName": "Algerian Dinar",
-        "currencyNamePlural": "Algerian Dinar",
+        "currencyNamePlural": "Algerian dinars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "dzd"
@@ -46,10 +46,10 @@
     "as": {
         "countryCode": "AS",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "American Samoa",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -57,10 +57,10 @@
     "ad": {
         "countryCode": "AD",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Andorra",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -71,7 +71,7 @@
         "currencySymbol": "AOA",
         "name": "Angola",
         "currencyName": "Angolan Kwanza",
-        "currencyNamePlural": "Angolan Kwanza",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "aoa"
@@ -82,7 +82,7 @@
         "currencySymbol": "XCD",
         "name": "Anguilla",
         "currencyName": "Eastern Caribbean Dollar",
-        "currencyNamePlural": "Eastern Caribbean Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "xcd"
@@ -93,7 +93,7 @@
         "currencySymbol": "XCD",
         "name": "Antigua and Barbuda",
         "currencyName": "Eastern Caribbean Dollar",
-        "currencyNamePlural": "Eastern Caribbean Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "xcd"
@@ -101,10 +101,10 @@
     "ar": {
         "countryCode": "AR",
         "currencyCode": "ARS",
-        "currencySymbol": "ARS",
+        "currencySymbol": "$",
         "name": "Argentina",
         "currencyName": "Argentine Peso",
-        "currencyNamePlural": "Argentine Peso",
+        "currencyNamePlural": "Argentine pesos",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "ars"
@@ -112,11 +112,11 @@
     "am": {
         "countryCode": "AM",
         "currencyCode": "AMD",
-        "currencySymbol": "AMD",
+        "currencySymbol": "դր.",
         "name": "Armenia",
         "currencyName": "Armenian Dram",
-        "currencyNamePlural": "Armenian Dram",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Armenian drams",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "amd"
     },
@@ -126,7 +126,7 @@
         "currencySymbol": "AWG",
         "name": "Aruba",
         "currencyName": "Aruban Florin",
-        "currencyNamePlural": "Aruban Florin",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "awg"
@@ -134,10 +134,10 @@
     "au": {
         "countryCode": "AU",
         "currencyCode": "AUD",
-        "currencySymbol": "AUD",
+        "currencySymbol": "$",
         "name": "Australia",
         "currencyName": "Australian Dollar",
-        "currencyNamePlural": "Australian Dollar",
+        "currencyNamePlural": "Australian dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "aud"
@@ -145,10 +145,10 @@
     "at": {
         "countryCode": "AT",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Austria",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -156,10 +156,10 @@
     "az": {
         "countryCode": "AZ",
         "currencyCode": "AZN",
-        "currencySymbol": "AZN",
+        "currencySymbol": "ман.",
         "name": "Azerbaijan",
         "currencyName": "Azerbaijanian Manat",
-        "currencyNamePlural": "Azerbaijanian Manat",
+        "currencyNamePlural": "Azerbaijani manats",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "azn"
@@ -170,7 +170,7 @@
         "currencySymbol": "BDS",
         "name": "Bahamas",
         "currencyName": "Bahamian Dollar",
-        "currencyNamePlural": "Bahamian Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "bds"
@@ -178,21 +178,21 @@
     "bh": {
         "countryCode": "BH",
         "currencyCode": "BHD",
-        "currencySymbol": "BHD",
+        "currencySymbol": "د.ب.‏",
         "name": "Bahrain",
         "currencyName": "Bahraini Dinar",
-        "currencyNamePlural": "Bahraini Dinar",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Bahraini dinars",
+        "currencyDecimalDigits": 3,
         "currencyRounding": 0,
         "numericCurrencyCode": "bhd"
     },
     "bd": {
         "countryCode": "BD",
         "currencyCode": "BDT",
-        "currencySymbol": "BDT",
+        "currencySymbol": "৳",
         "name": "Bangladesh",
         "currencyName": "Taka",
-        "currencyNamePlural": "Taka",
+        "currencyNamePlural": "Bangladeshi takas",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "bdt"
@@ -203,7 +203,7 @@
         "currencySymbol": "BBD",
         "name": "Barbados",
         "currencyName": "Barbados Dollar",
-        "currencyNamePlural": "Barbados Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "bbd"
@@ -211,10 +211,10 @@
     "by": {
         "countryCode": "BY",
         "currencyCode": "BYN",
-        "currencySymbol": "BYN",
+        "currencySymbol": "руб.",
         "name": "Belarus",
         "currencyName": "Belarussian Ruble",
-        "currencyNamePlural": "Belarussian Ruble",
+        "currencyNamePlural": "Belarusian rubles",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "byn"
@@ -222,10 +222,10 @@
     "be": {
         "countryCode": "BE",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Belgium",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -233,10 +233,10 @@
     "bz": {
         "countryCode": "BZ",
         "currencyCode": "BZD",
-        "currencySymbol": "BZD",
+        "currencySymbol": "$",
         "name": "Belize",
         "currencyName": "Belize Dollar",
-        "currencyNamePlural": "Belize Dollar",
+        "currencyNamePlural": "Belize dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "bzd"
@@ -244,11 +244,11 @@
     "bj": {
         "countryCode": "BJ",
         "currencyCode": "XOF",
-        "currencySymbol": "XOF",
+        "currencySymbol": "CFA",
         "name": "Benin",
         "currencyName": "CFA Franc BCEAO",
-        "currencyNamePlural": "CFA Franc BCEAO",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "CFA francs BCEAO",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "xof"
     },
@@ -258,7 +258,7 @@
         "currencySymbol": "BMD",
         "name": "Bermuda",
         "currencyName": "Bermudian Dollar",
-        "currencyNamePlural": "Bermudian Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "bmd"
@@ -269,7 +269,7 @@
         "currencySymbol": "BTN",
         "name": "Bhutan",
         "currencyName": "Ngultrum",
-        "currencyNamePlural": "Ngultrum",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "btn"
@@ -277,10 +277,10 @@
     "bo": {
         "countryCode": "BO",
         "currencyCode": "BOB",
-        "currencySymbol": "BOB",
+        "currencySymbol": "Bs",
         "name": "Bolivia, Plurinational State of",
         "currencyName": "Boliviano",
-        "currencyNamePlural": "Boliviano",
+        "currencyNamePlural": "Bolivian bolivianos",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "bob"
@@ -288,10 +288,10 @@
     "bq": {
         "countryCode": "BQ",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "Bonaire, Sint Eustatius and Saba",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -299,10 +299,10 @@
     "ba": {
         "countryCode": "BA",
         "currencyCode": "BAM",
-        "currencySymbol": "BAM",
+        "currencySymbol": "KM",
         "name": "Bosnia and Herzegovina",
         "currencyName": "Convertible Mark",
-        "currencyNamePlural": "Convertible Mark",
+        "currencyNamePlural": "Bosnia-Herzegovina convertible marks",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "bam"
@@ -310,10 +310,10 @@
     "bw": {
         "countryCode": "BW",
         "currencyCode": "BWP",
-        "currencySymbol": "BWP",
+        "currencySymbol": "P",
         "name": "Botswana",
         "currencyName": "Pula",
-        "currencyNamePlural": "Pula",
+        "currencyNamePlural": "Botswanan pulas",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "bwp"
@@ -321,10 +321,10 @@
     "bv": {
         "countryCode": "BV",
         "currencyCode": "NOK",
-        "currencySymbol": "NOK",
+        "currencySymbol": "kr",
         "name": "Bouvet Island",
         "currencyName": "Norwegian Krone",
-        "currencyNamePlural": "Norwegian Krone",
+        "currencyNamePlural": "Norwegian kroner",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "nok"
@@ -332,10 +332,10 @@
     "br": {
         "countryCode": "BR",
         "currencyCode": "BRL",
-        "currencySymbol": "BRL",
+        "currencySymbol": "R$",
         "name": "Brazil",
         "currencyName": "Brazilian Real",
-        "currencyNamePlural": "Brazilian Real",
+        "currencyNamePlural": "Brazilian reals",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "brl"
@@ -343,10 +343,10 @@
     "io": {
         "countryCode": "IO",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "British Indian Ocean Territory",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -354,10 +354,10 @@
     "bn": {
         "countryCode": "BN",
         "currencyCode": "BND",
-        "currencySymbol": "BND",
+        "currencySymbol": "$",
         "name": "Brunei Darussalam",
         "currencyName": "Brunei Dollar",
-        "currencyNamePlural": "Brunei Dollar",
+        "currencyNamePlural": "Brunei dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "bnd"
@@ -365,10 +365,10 @@
     "bg": {
         "countryCode": "BG",
         "currencyCode": "BGN",
-        "currencySymbol": "BGN",
+        "currencySymbol": "лв.",
         "name": "Bulgaria",
         "currencyName": "Bulgarian Lev",
-        "currencyNamePlural": "Bulgarian Lev",
+        "currencyNamePlural": "Bulgarian leva",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "bgn"
@@ -376,32 +376,32 @@
     "bf": {
         "countryCode": "BF",
         "currencyCode": "XOF",
-        "currencySymbol": "XOF",
+        "currencySymbol": "CFA",
         "name": "Burkina Faso",
         "currencyName": "CFA Franc BCEAO",
-        "currencyNamePlural": "CFA Franc BCEAO",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "CFA francs BCEAO",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "xof"
     },
     "bi": {
         "countryCode": "BI",
         "currencyCode": "BIF",
-        "currencySymbol": "BIF",
+        "currencySymbol": "FBu",
         "name": "Burundi",
         "currencyName": "Burundi Franc",
-        "currencyNamePlural": "Burundi Franc",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Burundian francs",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "bif"
     },
     "kh": {
         "countryCode": "KH",
         "currencyCode": "KHR",
-        "currencySymbol": "KHR",
+        "currencySymbol": "៛",
         "name": "Cambodia",
         "currencyName": "Riel",
-        "currencyNamePlural": "Riel",
+        "currencyNamePlural": "Cambodian riels",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "khr"
@@ -409,21 +409,21 @@
     "cm": {
         "countryCode": "CM",
         "currencyCode": "XAF",
-        "currencySymbol": "XAF",
+        "currencySymbol": "FCFA",
         "name": "Cameroon",
         "currencyName": "CFA Franc BEAC",
-        "currencyNamePlural": "CFA Franc BEAC",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "CFA francs BEAC",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "xaf"
     },
     "ca": {
         "countryCode": "CA",
         "currencyCode": "CAD",
-        "currencySymbol": "CAD",
+        "currencySymbol": "$",
         "name": "Canada",
         "currencyName": "Canadian Dollar",
-        "currencyNamePlural": "Canadian Dollar",
+        "currencyNamePlural": "Canadian dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "cad"
@@ -431,10 +431,10 @@
     "cv": {
         "countryCode": "CV",
         "currencyCode": "CVE",
-        "currencySymbol": "CVE",
+        "currencySymbol": "CV$",
         "name": "Cabo Verde",
         "currencyName": "Cabo Verde Escudo",
-        "currencyNamePlural": "Cabo Verde Escudo",
+        "currencyNamePlural": "Cape Verdean escudos",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "cve"
@@ -445,7 +445,7 @@
         "currencySymbol": "KYD",
         "name": "Cayman Islands",
         "currencyName": "Cayman Islands Dollar",
-        "currencyNamePlural": "Cayman Islands Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "kyd"
@@ -453,43 +453,43 @@
     "cf": {
         "countryCode": "CF",
         "currencyCode": "XAF",
-        "currencySymbol": "XAF",
+        "currencySymbol": "FCFA",
         "name": "Central African Republic",
         "currencyName": "CFA Franc BEAC",
-        "currencyNamePlural": "CFA Franc BEAC",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "CFA francs BEAC",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "xaf"
     },
     "td": {
         "countryCode": "TD",
         "currencyCode": "XAF",
-        "currencySymbol": "XAF",
+        "currencySymbol": "FCFA",
         "name": "Chad",
         "currencyName": "CFA Franc BEAC",
-        "currencyNamePlural": "CFA Franc BEAC",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "CFA francs BEAC",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "xaf"
     },
     "cl": {
         "countryCode": "CL",
         "currencyCode": "CLP",
-        "currencySymbol": "CLP",
+        "currencySymbol": "$",
         "name": "Chile",
         "currencyName": "Chilean Peso",
-        "currencyNamePlural": "Chilean Peso",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Chilean pesos",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "clp"
     },
     "cn": {
         "countryCode": "CN",
         "currencyCode": "CNY",
-        "currencySymbol": "CNY",
+        "currencySymbol": "CN¥",
         "name": "China",
         "currencyName": "Yuan Renminbi",
-        "currencyNamePlural": "Yuan Renminbi",
+        "currencyNamePlural": "Chinese yuan",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "cny"
@@ -497,10 +497,10 @@
     "cx": {
         "countryCode": "CX",
         "currencyCode": "AUD",
-        "currencySymbol": "AUD",
+        "currencySymbol": "$",
         "name": "Christmas Island",
         "currencyName": "Australian Dollar",
-        "currencyNamePlural": "Australian Dollar",
+        "currencyNamePlural": "Australian dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "aud"
@@ -508,10 +508,10 @@
     "cc": {
         "countryCode": "CC",
         "currencyCode": "AUD",
-        "currencySymbol": "AUD",
+        "currencySymbol": "$",
         "name": "Cocos (Keeling) Islands",
         "currencyName": "Australian Dollar",
-        "currencyNamePlural": "Australian Dollar",
+        "currencyNamePlural": "Australian dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "aud"
@@ -519,43 +519,43 @@
     "co": {
         "countryCode": "CO",
         "currencyCode": "COP",
-        "currencySymbol": "COP",
+        "currencySymbol": "$",
         "name": "Colombia",
         "currencyName": "Colombian Peso",
-        "currencyNamePlural": "Colombian Peso",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Colombian pesos",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "cop"
     },
     "km": {
         "countryCode": "KM",
         "currencyCode": "KMF",
-        "currencySymbol": "KMF",
+        "currencySymbol": "FC",
         "name": "Comoros",
         "currencyName": "Comoro Franc",
-        "currencyNamePlural": "Comoro Franc",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Comorian francs",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "kmf"
     },
     "cg": {
         "countryCode": "CG",
         "currencyCode": "XAF",
-        "currencySymbol": "XAF",
+        "currencySymbol": "FCFA",
         "name": "Congo",
         "currencyName": "CFA Franc BEAC",
-        "currencyNamePlural": "CFA Franc BEAC",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "CFA francs BEAC",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "xaf"
     },
     "cd": {
         "countryCode": "CD",
         "currencyCode": "CDF",
-        "currencySymbol": "CDF",
+        "currencySymbol": "FrCD",
         "name": "Congo, the Democratic Republic of the",
         "currencyName": "Congolese Franc",
-        "currencyNamePlural": "Congolese Franc",
+        "currencyNamePlural": "Congolese francs",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "cdf"
@@ -563,10 +563,10 @@
     "ck": {
         "countryCode": "CK",
         "currencyCode": "NZD",
-        "currencySymbol": "NZD",
+        "currencySymbol": "$",
         "name": "Cook Islands",
         "currencyName": "New Zealand Dollar",
-        "currencyNamePlural": "New Zealand Dollar",
+        "currencyNamePlural": "New Zealand dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "nzd"
@@ -574,32 +574,32 @@
     "cr": {
         "countryCode": "CR",
         "currencyCode": "CRC",
-        "currencySymbol": "CRC",
+        "currencySymbol": "₡",
         "name": "Costa Rica",
         "currencyName": "Costa Rican Colon",
-        "currencyNamePlural": "Costa Rican Colon",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Costa Rican colóns",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "crc"
     },
     "ci": {
         "countryCode": "CI",
         "currencyCode": "XOF",
-        "currencySymbol": "XOF",
+        "currencySymbol": "CFA",
         "name": "Cote D Ivoire",
         "currencyName": "CFA Franc BCEAO",
-        "currencyNamePlural": "CFA Franc BCEAO",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "CFA francs BCEAO",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "xof"
     },
     "hr": {
         "countryCode": "HR",
         "currencyCode": "HRK",
-        "currencySymbol": "HRK",
+        "currencySymbol": "kn",
         "name": "Croatia",
         "currencyName": "Kuna",
-        "currencyNamePlural": "Kuna",
+        "currencyNamePlural": "Croatian kunas",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "hrk"
@@ -610,7 +610,7 @@
         "currencySymbol": "CUP",
         "name": "Cuba",
         "currencyName": "Cuban Peso",
-        "currencyNamePlural": "Cuban Peso",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "cup"
@@ -621,7 +621,7 @@
         "currencySymbol": "ANG",
         "name": "Curaçao",
         "currencyName": "Netherlands Antillean Guilder",
-        "currencyNamePlural": "Netherlands Antillean Guilder",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "ang"
@@ -629,10 +629,10 @@
     "cy": {
         "countryCode": "CY",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Cyprus",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -640,10 +640,10 @@
     "cz": {
         "countryCode": "CZ",
         "currencyCode": "CZK",
-        "currencySymbol": "CZK",
+        "currencySymbol": "Kč",
         "name": "Czech Republic",
         "currencyName": "Czech Koruna",
-        "currencyNamePlural": "Czech Koruna",
+        "currencyNamePlural": "Czech Republic korunas",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "czk"
@@ -651,10 +651,10 @@
     "dk": {
         "countryCode": "DK",
         "currencyCode": "DKK",
-        "currencySymbol": "DKK",
+        "currencySymbol": "kr",
         "name": "Denmark",
         "currencyName": "Danish Krone",
-        "currencyNamePlural": "Danish Krone",
+        "currencyNamePlural": "Danish kroner",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "dkk"
@@ -662,11 +662,11 @@
     "dj": {
         "countryCode": "DJ",
         "currencyCode": "DJF",
-        "currencySymbol": "DJF",
+        "currencySymbol": "Fdj",
         "name": "Djibouti",
         "currencyName": "Djibouti Franc",
-        "currencyNamePlural": "Djibouti Franc",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Djiboutian francs",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "djf"
     },
@@ -676,7 +676,7 @@
         "currencySymbol": "XCD",
         "name": "Dominica",
         "currencyName": "East Caribbean Dollar",
-        "currencyNamePlural": "East Caribbean Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "xcd"
@@ -684,10 +684,10 @@
     "do": {
         "countryCode": "DO",
         "currencyCode": "DOP",
-        "currencySymbol": "DOP",
+        "currencySymbol": "RD$",
         "name": "Dominican Republic",
         "currencyName": "Dominican Peso",
-        "currencyNamePlural": "Dominican Peso",
+        "currencyNamePlural": "Dominican pesos",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "dop"
@@ -695,10 +695,10 @@
     "ec": {
         "countryCode": "EC",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "Ecuador",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -706,10 +706,10 @@
     "eg": {
         "countryCode": "EG",
         "currencyCode": "EGP",
-        "currencySymbol": "EGP",
+        "currencySymbol": "ج.م.‏",
         "name": "Egypt",
         "currencyName": "Egyptian Pound",
-        "currencyNamePlural": "Egyptian Pound",
+        "currencyNamePlural": "Egyptian pounds",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "egp"
@@ -717,10 +717,10 @@
     "sv": {
         "countryCode": "SV",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "El Salvador",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -728,21 +728,21 @@
     "gq": {
         "countryCode": "GQ",
         "currencyCode": "XAF",
-        "currencySymbol": "XAF",
+        "currencySymbol": "FCFA",
         "name": "Equatorial Guinea",
         "currencyName": "CFA Franc BEAC",
-        "currencyNamePlural": "CFA Franc BEAC",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "CFA francs BEAC",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "xaf"
     },
     "er": {
         "countryCode": "ER",
         "currencyCode": "ERN",
-        "currencySymbol": "ERN",
+        "currencySymbol": "Nfk",
         "name": "Eritrea",
         "currencyName": "Nakfa",
-        "currencyNamePlural": "Nakfa",
+        "currencyNamePlural": "Eritrean nakfas",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "ern"
@@ -750,10 +750,10 @@
     "ee": {
         "countryCode": "EE",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Estonia",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -761,10 +761,10 @@
     "et": {
         "countryCode": "ET",
         "currencyCode": "ETB",
-        "currencySymbol": "ETB",
+        "currencySymbol": "Br",
         "name": "Ethiopia",
         "currencyName": "Ethiopian Birr",
-        "currencyNamePlural": "Ethiopian Birr",
+        "currencyNamePlural": "Ethiopian birrs",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "etb"
@@ -775,7 +775,7 @@
         "currencySymbol": "FKP",
         "name": "Falkland Islands (Malvinas)",
         "currencyName": "Falkland Islands Pound",
-        "currencyNamePlural": "Falkland Islands Pound",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "fkp"
@@ -783,10 +783,10 @@
     "fo": {
         "countryCode": "FO",
         "currencyCode": "DKK",
-        "currencySymbol": "DKK",
+        "currencySymbol": "kr",
         "name": "Faroe Islands",
         "currencyName": "Danish Krone",
-        "currencyNamePlural": "Danish Krone",
+        "currencyNamePlural": "Danish kroner",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "dkk"
@@ -797,7 +797,7 @@
         "currencySymbol": "FJD",
         "name": "Fiji",
         "currencyName": "Fiji Dollar",
-        "currencyNamePlural": "Fiji Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "fjd"
@@ -805,10 +805,10 @@
     "fi": {
         "countryCode": "FI",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Finland",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -816,10 +816,10 @@
     "fr": {
         "countryCode": "FR",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "France",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -827,10 +827,10 @@
     "fg": {
         "countryCode": "FG",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "French Guiana",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -841,7 +841,7 @@
         "currencySymbol": "XPF",
         "name": "French Polynesia",
         "currencyName": "CFP Franc",
-        "currencyNamePlural": "CFP Franc",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "xpf"
@@ -849,10 +849,10 @@
     "tf": {
         "countryCode": "TF",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "French Southern Territories",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -860,11 +860,11 @@
     "ga": {
         "countryCode": "GA",
         "currencyCode": "XAF",
-        "currencySymbol": "XAF",
+        "currencySymbol": "FCFA",
         "name": "Gabon",
         "currencyName": "CFA Franc BEAC",
-        "currencyNamePlural": "CFA Franc BEAC",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "CFA francs BEAC",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "xaf"
     },
@@ -874,7 +874,7 @@
         "currencySymbol": "GMD",
         "name": "Gambia",
         "currencyName": "Dalasi",
-        "currencyNamePlural": "Dalasi",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "gmd"
@@ -885,7 +885,7 @@
         "currencySymbol": "GEL",
         "name": "Georgia",
         "currencyName": "Lari",
-        "currencyNamePlural": "Lari",
+        "currencyNamePlural": "Georgian laris",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "gel"
@@ -893,10 +893,10 @@
     "de": {
         "countryCode": "DE",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Germany",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -904,10 +904,10 @@
     "gh": {
         "countryCode": "GH",
         "currencyCode": "GHS",
-        "currencySymbol": "GHS",
+        "currencySymbol": "GH₵",
         "name": "Ghana",
         "currencyName": "Ghana Cedi",
-        "currencyNamePlural": "Ghana Cedi",
+        "currencyNamePlural": "Ghanaian cedis",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "ghs"
@@ -918,7 +918,7 @@
         "currencySymbol": "GIP",
         "name": "Gibraltar",
         "currencyName": "Gibraltar Pound",
-        "currencyNamePlural": "Gibraltar Pound",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "gip"
@@ -926,10 +926,10 @@
     "gr": {
         "countryCode": "GR",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Greece",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -937,10 +937,10 @@
     "gl": {
         "countryCode": "GL",
         "currencyCode": "DKK",
-        "currencySymbol": "DKK",
+        "currencySymbol": "kr",
         "name": "Greenland",
         "currencyName": "Danish Krone",
-        "currencyNamePlural": "Danish Krone",
+        "currencyNamePlural": "Danish kroner",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "dkk"
@@ -951,7 +951,7 @@
         "currencySymbol": "XCD",
         "name": "Grenada",
         "currencyName": "East Caribbean Dollar",
-        "currencyNamePlural": "East Caribbean Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "xcd"
@@ -959,10 +959,10 @@
     "gp": {
         "countryCode": "GP",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Guadeloupe",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -970,10 +970,10 @@
     "gu": {
         "countryCode": "GU",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "Guam",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -981,10 +981,10 @@
     "gt": {
         "countryCode": "GT",
         "currencyCode": "GTQ",
-        "currencySymbol": "GTQ",
+        "currencySymbol": "Q",
         "name": "Guatemala",
         "currencyName": "Quetzal",
-        "currencyNamePlural": "Quetzal",
+        "currencyNamePlural": "Guatemalan quetzals",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "gtq"
@@ -992,10 +992,10 @@
     "gg": {
         "countryCode": "GG",
         "currencyCode": "GBP",
-        "currencySymbol": "GBP",
+        "currencySymbol": "£",
         "name": "Guernsey",
         "currencyName": "Pound Sterling",
-        "currencyNamePlural": "Pound Sterling",
+        "currencyNamePlural": "British pounds sterling",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "gbp"
@@ -1003,22 +1003,22 @@
     "gn": {
         "countryCode": "GN",
         "currencyCode": "GNF",
-        "currencySymbol": "GNF",
+        "currencySymbol": "FG",
         "name": "Guinea",
         "currencyName": "Guinea Franc",
-        "currencyNamePlural": "Guinea Franc",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Guinean francs",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "gnf"
     },
     "gw": {
         "countryCode": "GW",
         "currencyCode": "XOF",
-        "currencySymbol": "XOF",
+        "currencySymbol": "CFA",
         "name": "Guinea-Bissau",
         "currencyName": "CFA Franc BCEAO",
-        "currencyNamePlural": "CFA Franc BCEAO",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "CFA francs BCEAO",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "xof"
     },
@@ -1028,7 +1028,7 @@
         "currencySymbol": "GYD",
         "name": "Guyana",
         "currencyName": "Guyana Dollar",
-        "currencyNamePlural": "Guyana Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "gyd"
@@ -1039,7 +1039,7 @@
         "currencySymbol": "HTG",
         "name": "Haiti",
         "currencyName": "Gourde",
-        "currencyNamePlural": "Gourde",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "htg"
@@ -1047,10 +1047,10 @@
     "va": {
         "countryCode": "VA",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Holy See (Vatican City State)",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -1058,10 +1058,10 @@
     "hn": {
         "countryCode": "HN",
         "currencyCode": "HNL",
-        "currencySymbol": "HNL",
+        "currencySymbol": "L",
         "name": "Honduras",
         "currencyName": "Lempira",
-        "currencyNamePlural": "Lempira",
+        "currencyNamePlural": "Honduran lempiras",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "hnl"
@@ -1069,10 +1069,10 @@
     "hk": {
         "countryCode": "HK",
         "currencyCode": "HKD",
-        "currencySymbol": "HKD",
+        "currencySymbol": "$",
         "name": "Hong Kong",
         "currencyName": "Hong Kong Dollar",
-        "currencyNamePlural": "Hong Kong Dollar",
+        "currencyNamePlural": "Hong Kong dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "hkd"
@@ -1080,32 +1080,32 @@
     "hu": {
         "countryCode": "HU",
         "currencyCode": "HUF",
-        "currencySymbol": "HUF",
+        "currencySymbol": "Ft",
         "name": "Hungary",
         "currencyName": "Forint",
-        "currencyNamePlural": "Forint",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Hungarian forints",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "huf"
     },
     "is": {
         "countryCode": "IS",
         "currencyCode": "ISK",
-        "currencySymbol": "ISK",
+        "currencySymbol": "kr",
         "name": "Iceland",
         "currencyName": "Iceland Krona",
-        "currencyNamePlural": "Iceland Krona",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Icelandic krónur",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "isk"
     },
     "in": {
         "countryCode": "IN",
         "currencyCode": "INR",
-        "currencySymbol": "INR",
+        "currencySymbol": "টকা",
         "name": "India",
         "currencyName": "Indian Rupee",
-        "currencyNamePlural": "Indian Rupee",
+        "currencyNamePlural": "Indian rupees",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "inr"
@@ -1113,43 +1113,43 @@
     "id": {
         "countryCode": "ID",
         "currencyCode": "IDR",
-        "currencySymbol": "IDR",
+        "currencySymbol": "Rp",
         "name": "Indonesia",
         "currencyName": "Rupiah",
-        "currencyNamePlural": "Rupiah",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Indonesian rupiahs",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "idr"
     },
     "ir": {
         "countryCode": "IR",
         "currencyCode": "IRR",
-        "currencySymbol": "IRR",
+        "currencySymbol": "﷼",
         "name": "Iran, Islamic Republic of",
         "currencyName": "Iranian Rial",
-        "currencyNamePlural": "Iranian Rial",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Iranian rials",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "irr"
     },
     "iq": {
         "countryCode": "IQ",
         "currencyCode": "IQD",
-        "currencySymbol": "IQD",
+        "currencySymbol": "د.ع.‏",
         "name": "Iraq",
         "currencyName": "Iraqi Dinar",
-        "currencyNamePlural": "Iraqi Dinar",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Iraqi dinars",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "iqd"
     },
     "ie": {
         "countryCode": "IE",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Ireland",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -1157,10 +1157,10 @@
     "im": {
         "countryCode": "IM",
         "currencyCode": "GBP",
-        "currencySymbol": "GBP",
+        "currencySymbol": "£",
         "name": "Isle of Man",
         "currencyName": "Pound Sterling",
-        "currencyNamePlural": "Pound Sterling",
+        "currencyNamePlural": "British pounds sterling",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "gbp"
@@ -1168,10 +1168,10 @@
     "il": {
         "countryCode": "IL",
         "currencyCode": "ILS",
-        "currencySymbol": "ILS",
+        "currencySymbol": "₪",
         "name": "Israel",
         "currencyName": "New Israeli Sheqel",
-        "currencyNamePlural": "New Israeli Sheqel",
+        "currencyNamePlural": "Israeli new sheqels",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "ils"
@@ -1179,10 +1179,10 @@
     "it": {
         "countryCode": "IT",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Italy",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -1190,10 +1190,10 @@
     "jm": {
         "countryCode": "JM",
         "currencyCode": "JMD",
-        "currencySymbol": "JMD",
+        "currencySymbol": "$",
         "name": "Jamaica",
         "currencyName": "Jamaican Dollar",
-        "currencyNamePlural": "Jamaican Dollar",
+        "currencyNamePlural": "Jamaican dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "jmd"
@@ -1201,21 +1201,21 @@
     "jp": {
         "countryCode": "JP",
         "currencyCode": "JPY",
-        "currencySymbol": "JPY",
+        "currencySymbol": "￥",
         "name": "Japan",
         "currencyName": "Yen",
-        "currencyNamePlural": "Yen",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Japanese yen",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "jpy"
     },
     "je": {
         "countryCode": "JE",
         "currencyCode": "GBP",
-        "currencySymbol": "GBP",
+        "currencySymbol": "£",
         "name": "Jersey",
         "currencyName": "Pound Sterling",
-        "currencyNamePlural": "Pound Sterling",
+        "currencyNamePlural": "British pounds sterling",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "gbp"
@@ -1223,21 +1223,21 @@
     "jo": {
         "countryCode": "JO",
         "currencyCode": "JOD",
-        "currencySymbol": "JOD",
+        "currencySymbol": "د.أ.‏",
         "name": "Jordan",
         "currencyName": "Jordanian Dinar",
-        "currencyNamePlural": "Jordanian Dinar",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Jordanian dinars",
+        "currencyDecimalDigits": 3,
         "currencyRounding": 0,
         "numericCurrencyCode": "jod"
     },
     "kz": {
         "countryCode": "KZ",
         "currencyCode": "KZT",
-        "currencySymbol": "KZT",
+        "currencySymbol": "тңг.",
         "name": "Kazakhstan",
         "currencyName": "Tenge",
-        "currencyNamePlural": "Tenge",
+        "currencyNamePlural": "Kazakhstani tenges",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "kzt"
@@ -1245,10 +1245,10 @@
     "ke": {
         "countryCode": "KE",
         "currencyCode": "KES",
-        "currencySymbol": "KES",
+        "currencySymbol": "Ksh",
         "name": "Kenya",
         "currencyName": "Kenyan Shilling",
-        "currencyNamePlural": "Kenyan Shilling",
+        "currencyNamePlural": "Kenyan shillings",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "kes"
@@ -1256,10 +1256,10 @@
     "ki": {
         "countryCode": "KI",
         "currencyCode": "AUD",
-        "currencySymbol": "AUD",
+        "currencySymbol": "$",
         "name": "Kiribati",
         "currencyName": "Australian Dollar",
-        "currencyNamePlural": "Australian Dollar",
+        "currencyNamePlural": "Australian dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "aud"
@@ -1270,7 +1270,7 @@
         "currencySymbol": "KPW",
         "name": "Korea, Democratic People's Republic of",
         "currencyName": "North Korean Won",
-        "currencyNamePlural": "North Korean Won",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "kpw"
@@ -1278,21 +1278,21 @@
     "kr": {
         "countryCode": "KR",
         "currencyCode": "KRW",
-        "currencySymbol": "KRW",
+        "currencySymbol": "₩",
         "name": "Korea, Republic of",
         "currencyName": "Won",
-        "currencyNamePlural": "Won",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "South Korean won",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "krw"
     },
     "xk": {
         "countryCode": "XK",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Kosovo",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -1300,11 +1300,11 @@
     "kw": {
         "countryCode": "KW",
         "currencyCode": "KWD",
-        "currencySymbol": "KWD",
+        "currencySymbol": "د.ك.‏",
         "name": "Kuwait",
         "currencyName": "Kuwaiti Dinar",
-        "currencyNamePlural": "Kuwaiti Dinar",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Kuwaiti dinars",
+        "currencyDecimalDigits": 3,
         "currencyRounding": 0,
         "numericCurrencyCode": "kwd"
     },
@@ -1314,7 +1314,7 @@
         "currencySymbol": "KGS",
         "name": "Kyrgyzstan",
         "currencyName": "Som",
-        "currencyNamePlural": "Som",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "kgs"
@@ -1325,7 +1325,7 @@
         "currencySymbol": "LAK",
         "name": "Lao People's Democratic Republic",
         "currencyName": "Kip",
-        "currencyNamePlural": "Kip",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "lak"
@@ -1333,10 +1333,10 @@
     "lv": {
         "countryCode": "LV",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Latvia",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -1344,11 +1344,11 @@
     "lb": {
         "countryCode": "LB",
         "currencyCode": "LBP",
-        "currencySymbol": "LBP",
+        "currencySymbol": "ل.ل.‏",
         "name": "Lebanon",
         "currencyName": "Lebanese Pound",
-        "currencyNamePlural": "Lebanese Pound",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Lebanese pounds",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "lbp"
     },
@@ -1358,7 +1358,7 @@
         "currencySymbol": "LSL",
         "name": "Lesotho",
         "currencyName": "Loti",
-        "currencyNamePlural": "Loti",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "lsl"
@@ -1369,7 +1369,7 @@
         "currencySymbol": "LRD",
         "name": "Liberia",
         "currencyName": "Liberian Dollar",
-        "currencyNamePlural": "Liberian Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "lrd"
@@ -1377,11 +1377,11 @@
     "ly": {
         "countryCode": "LY",
         "currencyCode": "LYD",
-        "currencySymbol": "LYD",
+        "currencySymbol": "د.ل.‏",
         "name": "Libya",
         "currencyName": "Libyan Dinar",
-        "currencyNamePlural": "Libyan Dinar",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Libyan dinars",
+        "currencyDecimalDigits": 3,
         "currencyRounding": 0,
         "numericCurrencyCode": "lyd"
     },
@@ -1391,18 +1391,18 @@
         "currencySymbol": "CHF",
         "name": "Liechtenstein",
         "currencyName": "Swiss Franc",
-        "currencyNamePlural": "Swiss Franc",
+        "currencyNamePlural": "Swiss francs",
         "currencyDecimalDigits": 2,
-        "currencyRounding": 0,
+        "currencyRounding": 0.05,
         "numericCurrencyCode": "chf"
     },
     "lt": {
         "countryCode": "LT",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Lithuania",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -1410,10 +1410,10 @@
     "lu": {
         "countryCode": "LU",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Luxembourg",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -1421,10 +1421,10 @@
     "mo": {
         "countryCode": "MO",
         "currencyCode": "MOP",
-        "currencySymbol": "MOP",
+        "currencySymbol": "MOP$",
         "name": "Macao",
         "currencyName": "Pataca",
-        "currencyNamePlural": "Pataca",
+        "currencyNamePlural": "Macanese patacas",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "mop"
@@ -1435,7 +1435,7 @@
         "currencySymbol": "MKD",
         "name": "Macedonia, the former Yugoslav Republic of",
         "currencyName": "Macedonian Denar",
-        "currencyNamePlural": "Macedonian Denar",
+        "currencyNamePlural": "Macedonian denari",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "mkd"
@@ -1446,8 +1446,8 @@
         "currencySymbol": "MGA",
         "name": "Madagascar",
         "currencyName": "Malagasy Ariary",
-        "currencyNamePlural": "Malagasy Ariary",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Malagasy Ariaries",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "mga"
     },
@@ -1457,7 +1457,7 @@
         "currencySymbol": "MWK",
         "name": "Malawi",
         "currencyName": "Kwacha",
-        "currencyNamePlural": "Kwacha",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "mwk"
@@ -1465,10 +1465,10 @@
     "my": {
         "countryCode": "MY",
         "currencyCode": "MYR",
-        "currencySymbol": "MYR",
+        "currencySymbol": "RM",
         "name": "Malaysia",
         "currencyName": "Malaysian Ringgit",
-        "currencyNamePlural": "Malaysian Ringgit",
+        "currencyNamePlural": "Malaysian ringgits",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "myr"
@@ -1479,7 +1479,7 @@
         "currencySymbol": "MVR",
         "name": "Maldives",
         "currencyName": "Rufiyaa",
-        "currencyNamePlural": "Rufiyaa",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "mvr"
@@ -1487,21 +1487,21 @@
     "ml": {
         "countryCode": "ML",
         "currencyCode": "XOF",
-        "currencySymbol": "XOF",
+        "currencySymbol": "CFA",
         "name": "Mali",
         "currencyName": "CFA Franc BCEAO",
-        "currencyNamePlural": "CFA Franc BCEAO",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "CFA francs BCEAO",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "xof"
     },
     "mt": {
         "countryCode": "MT",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Malta",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -1509,10 +1509,10 @@
     "mh": {
         "countryCode": "MH",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "Marshall Islands",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -1520,10 +1520,10 @@
     "mq": {
         "countryCode": "MQ",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Martinique",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -1534,7 +1534,7 @@
         "currencySymbol": "MRU",
         "name": "Mauritania",
         "currencyName": "Ouguiya",
-        "currencyNamePlural": "Ouguiya",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "mru"
@@ -1542,21 +1542,21 @@
     "mu": {
         "countryCode": "MU",
         "currencyCode": "MUR",
-        "currencySymbol": "MUR",
+        "currencySymbol": "MURs",
         "name": "Mauritius",
         "currencyName": "Mauritius Rupee",
-        "currencyNamePlural": "Mauritius Rupee",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Mauritian rupees",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "mur"
     },
     "yt": {
         "countryCode": "YT",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Mayotte",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -1564,10 +1564,10 @@
     "mx": {
         "countryCode": "MX",
         "currencyCode": "MXN",
-        "currencySymbol": "MXN",
+        "currencySymbol": "$",
         "name": "Mexico",
         "currencyName": "Mexican Peso",
-        "currencyNamePlural": "Mexican Peso",
+        "currencyNamePlural": "Mexican pesos",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "mxn"
@@ -1575,10 +1575,10 @@
     "fm": {
         "countryCode": "FM",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "Micronesia, Federated States of",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -1589,7 +1589,7 @@
         "currencySymbol": "MDL",
         "name": "Moldova, Republic of",
         "currencyName": "Moldovan Leu",
-        "currencyNamePlural": "Moldovan Leu",
+        "currencyNamePlural": "Moldovan lei",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "mdl"
@@ -1597,10 +1597,10 @@
     "mc": {
         "countryCode": "MC",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Monaco",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -1611,7 +1611,7 @@
         "currencySymbol": "MNT",
         "name": "Mongolia",
         "currencyName": "Tugrik",
-        "currencyNamePlural": "Tugrik",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "mnt"
@@ -1619,10 +1619,10 @@
     "me": {
         "countryCode": "ME",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Montenegro",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -1633,7 +1633,7 @@
         "currencySymbol": "XCD",
         "name": "Montserrat",
         "currencyName": "East Caribbean Dollar",
-        "currencyNamePlural": "East Caribbean Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "xcd"
@@ -1641,10 +1641,10 @@
     "ma": {
         "countryCode": "MA",
         "currencyCode": "MAD",
-        "currencySymbol": "MAD",
+        "currencySymbol": "د.م.‏",
         "name": "Morocco",
         "currencyName": "Moroccan Dirham",
-        "currencyNamePlural": "Moroccan Dirham",
+        "currencyNamePlural": "Moroccan dirhams",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "mad"
@@ -1652,10 +1652,10 @@
     "mz": {
         "countryCode": "MZ",
         "currencyCode": "MZN",
-        "currencySymbol": "MZN",
+        "currencySymbol": "MTn",
         "name": "Mozambique",
         "currencyName": "Mozambique Metical",
-        "currencyNamePlural": "Mozambique Metical",
+        "currencyNamePlural": "Mozambican meticals",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "mzn"
@@ -1663,21 +1663,21 @@
     "mm": {
         "countryCode": "MM",
         "currencyCode": "MMK",
-        "currencySymbol": "MMK",
+        "currencySymbol": "K",
         "name": "Myanmar",
         "currencyName": "Kyat",
-        "currencyNamePlural": "Kyat",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Myanma kyats",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "mmk"
     },
     "na": {
         "countryCode": "NA",
         "currencyCode": "NAD",
-        "currencySymbol": "NAD",
+        "currencySymbol": "N$",
         "name": "Namibia",
         "currencyName": "Namibia Dollar",
-        "currencyNamePlural": "Namibia Dollar",
+        "currencyNamePlural": "Namibian dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "nad"
@@ -1685,10 +1685,10 @@
     "nr": {
         "countryCode": "NR",
         "currencyCode": "AUD",
-        "currencySymbol": "AUD",
+        "currencySymbol": "$",
         "name": "Nauru",
         "currencyName": "Australian Dollar",
-        "currencyNamePlural": "Australian Dollar",
+        "currencyNamePlural": "Australian dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "aud"
@@ -1696,10 +1696,10 @@
     "np": {
         "countryCode": "NP",
         "currencyCode": "NPR",
-        "currencySymbol": "NPR",
+        "currencySymbol": "नेरू",
         "name": "Nepal",
         "currencyName": "Nepalese Rupee",
-        "currencyNamePlural": "Nepalese Rupee",
+        "currencyNamePlural": "Nepalese rupees",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "npr"
@@ -1707,10 +1707,10 @@
     "nl": {
         "countryCode": "NL",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Netherlands",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -1721,7 +1721,7 @@
         "currencySymbol": "XPF",
         "name": "New Caledonia",
         "currencyName": "CFP Franc",
-        "currencyNamePlural": "CFP Franc",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "xpf"
@@ -1729,10 +1729,10 @@
     "nz": {
         "countryCode": "NZ",
         "currencyCode": "NZD",
-        "currencySymbol": "NZD",
+        "currencySymbol": "$",
         "name": "New Zealand",
         "currencyName": "New Zealand Dollar",
-        "currencyNamePlural": "New Zealand Dollar",
+        "currencyNamePlural": "New Zealand dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "nzd"
@@ -1740,10 +1740,10 @@
     "ni": {
         "countryCode": "NI",
         "currencyCode": "NIO",
-        "currencySymbol": "NIO",
+        "currencySymbol": "C$",
         "name": "Nicaragua",
         "currencyName": "Cordoba Oro",
-        "currencyNamePlural": "Cordoba Oro",
+        "currencyNamePlural": "Nicaraguan córdobas",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "nio"
@@ -1751,21 +1751,21 @@
     "ne": {
         "countryCode": "NE",
         "currencyCode": "XOF",
-        "currencySymbol": "XOF",
+        "currencySymbol": "CFA",
         "name": "Niger",
         "currencyName": "CFA Franc BCEAO",
-        "currencyNamePlural": "CFA Franc BCEAO",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "CFA francs BCEAO",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "xof"
     },
     "ng": {
         "countryCode": "NG",
         "currencyCode": "NGN",
-        "currencySymbol": "NGN",
+        "currencySymbol": "₦",
         "name": "Nigeria",
         "currencyName": "Naira",
-        "currencyNamePlural": "Naira",
+        "currencyNamePlural": "Nigerian nairas",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "ngn"
@@ -1773,10 +1773,10 @@
     "nu": {
         "countryCode": "NU",
         "currencyCode": "NZD",
-        "currencySymbol": "NZD",
+        "currencySymbol": "$",
         "name": "Niue",
         "currencyName": "New Zealand Dollar",
-        "currencyNamePlural": "New Zealand Dollar",
+        "currencyNamePlural": "New Zealand dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "nzd"
@@ -1784,10 +1784,10 @@
     "nf": {
         "countryCode": "NF",
         "currencyCode": "AUD",
-        "currencySymbol": "AUD",
+        "currencySymbol": "$",
         "name": "Norfolk Island",
         "currencyName": "Australian Dollar",
-        "currencyNamePlural": "Australian Dollar",
+        "currencyNamePlural": "Australian dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "aud"
@@ -1795,10 +1795,10 @@
     "mp": {
         "countryCode": "MP",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "Northern Mariana Islands",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -1806,10 +1806,10 @@
     "no": {
         "countryCode": "NO",
         "currencyCode": "NOK",
-        "currencySymbol": "NOK",
+        "currencySymbol": "kr",
         "name": "Norway",
         "currencyName": "Norwegian Krone",
-        "currencyNamePlural": "Norwegian Krone",
+        "currencyNamePlural": "Norwegian kroner",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "nok"
@@ -1817,32 +1817,32 @@
     "om": {
         "countryCode": "OM",
         "currencyCode": "OMR",
-        "currencySymbol": "OMR",
+        "currencySymbol": "ر.ع.‏",
         "name": "Oman",
         "currencyName": "Rial Omani",
-        "currencyNamePlural": "Rial Omani",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Omani rials",
+        "currencyDecimalDigits": 3,
         "currencyRounding": 0,
         "numericCurrencyCode": "omr"
     },
     "pk": {
         "countryCode": "PK",
         "currencyCode": "PKR",
-        "currencySymbol": "PKR",
+        "currencySymbol": "₨",
         "name": "Pakistan",
         "currencyName": "Pakistan Rupee",
-        "currencyNamePlural": "Pakistan Rupee",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Pakistani rupees",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "pkr"
     },
     "pw": {
         "countryCode": "PW",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "Palau",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -1850,10 +1850,10 @@
     "pa": {
         "countryCode": "PA",
         "currencyCode": "PAB",
-        "currencySymbol": "PAB",
+        "currencySymbol": "B\/.",
         "name": "Panama",
         "currencyName": "Balboa",
-        "currencyNamePlural": "Balboa",
+        "currencyNamePlural": "Panamanian balboas",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "pab"
@@ -1864,7 +1864,7 @@
         "currencySymbol": "PGK",
         "name": "Papua New Guinea",
         "currencyName": "Kina",
-        "currencyNamePlural": "Kina",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "pgk"
@@ -1872,21 +1872,21 @@
     "py": {
         "countryCode": "PY",
         "currencyCode": "PYG",
-        "currencySymbol": "PYG",
+        "currencySymbol": "₲",
         "name": "Paraguay",
         "currencyName": "Guarani",
-        "currencyNamePlural": "Guarani",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Paraguayan guaranis",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "pyg"
     },
     "pe": {
         "countryCode": "PE",
         "currencyCode": "PEN",
-        "currencySymbol": "PEN",
+        "currencySymbol": "S\/.",
         "name": "Peru",
         "currencyName": "Nuevo Sol",
-        "currencyNamePlural": "Nuevo Sol",
+        "currencyNamePlural": "Peruvian nuevos soles",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "pen"
@@ -1894,10 +1894,10 @@
     "ph": {
         "countryCode": "PH",
         "currencyCode": "PHP",
-        "currencySymbol": "PHP",
+        "currencySymbol": "₱",
         "name": "Philippines",
         "currencyName": "Philippine Peso",
-        "currencyNamePlural": "Philippine Peso",
+        "currencyNamePlural": "Philippine pesos",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "php"
@@ -1905,10 +1905,10 @@
     "pn": {
         "countryCode": "PN",
         "currencyCode": "NZD",
-        "currencySymbol": "NZD",
+        "currencySymbol": "$",
         "name": "Pitcairn",
         "currencyName": "New Zealand Dollar",
-        "currencyNamePlural": "New Zealand Dollar",
+        "currencyNamePlural": "New Zealand dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "nzd"
@@ -1916,10 +1916,10 @@
     "pl": {
         "countryCode": "PL",
         "currencyCode": "PLN",
-        "currencySymbol": "PLN",
+        "currencySymbol": "zł",
         "name": "Poland",
         "currencyName": "Zloty",
-        "currencyNamePlural": "Zloty",
+        "currencyNamePlural": "Polish zlotys",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "pln"
@@ -1927,10 +1927,10 @@
     "pt": {
         "countryCode": "PT",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Portugal",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -1938,10 +1938,10 @@
     "pr": {
         "countryCode": "PR",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "Puerto Rico",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -1949,10 +1949,10 @@
     "qa": {
         "countryCode": "QA",
         "currencyCode": "QAR",
-        "currencySymbol": "QAR",
+        "currencySymbol": "ر.ق.‏",
         "name": "Qatar",
         "currencyName": "Qatari Rial",
-        "currencyNamePlural": "Qatari Rial",
+        "currencyNamePlural": "Qatari rials",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "qar"
@@ -1960,10 +1960,10 @@
     "re": {
         "countryCode": "RE",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Réunion",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -1974,7 +1974,7 @@
         "currencySymbol": "RON",
         "name": "Romania",
         "currencyName": "Romanian Leu",
-        "currencyNamePlural": "Romanian Leu",
+        "currencyNamePlural": "Romanian lei",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "ron"
@@ -1982,10 +1982,10 @@
     "ru": {
         "countryCode": "RU",
         "currencyCode": "RUB",
-        "currencySymbol": "RUB",
+        "currencySymbol": "₽.",
         "name": "Russian Federation",
         "currencyName": "Russian Ruble",
-        "currencyNamePlural": "Russian Ruble",
+        "currencyNamePlural": "Russian rubles",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "rub"
@@ -1993,11 +1993,11 @@
     "rw": {
         "countryCode": "RW",
         "currencyCode": "RWF",
-        "currencySymbol": "RWF",
+        "currencySymbol": "FR",
         "name": "Rwanda",
         "currencyName": "Rwanda Franc",
-        "currencyNamePlural": "Rwanda Franc",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Rwandan francs",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "rwf"
     },
@@ -2007,7 +2007,7 @@
         "currencySymbol": "SHP",
         "name": "Saint Helena, Ascension and Tristan da Cunha",
         "currencyName": "Saint Helena Pound",
-        "currencyNamePlural": "Saint Helena Pound",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "shp"
@@ -2018,7 +2018,7 @@
         "currencySymbol": "XCD",
         "name": "Saint Kitts and Nevis",
         "currencyName": "East Caribbean Dollar",
-        "currencyNamePlural": "East Caribbean Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "xcd"
@@ -2029,7 +2029,7 @@
         "currencySymbol": "XCD",
         "name": "Saint Lucia",
         "currencyName": "East Caribbean Dollar",
-        "currencyNamePlural": "East Caribbean Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "xcd"
@@ -2037,10 +2037,10 @@
     "mf": {
         "countryCode": "MF",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Saint Martin (French part)",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -2048,10 +2048,10 @@
     "pm": {
         "countryCode": "PM",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Saint Pierre and Miquelon",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -2062,7 +2062,7 @@
         "currencySymbol": "XCD",
         "name": "Saint Vincent and the Grenadines",
         "currencyName": "East Caribbean Dollar",
-        "currencyNamePlural": "East Caribbean Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "xcd"
@@ -2073,7 +2073,7 @@
         "currencySymbol": "WST",
         "name": "Samoa",
         "currencyName": "Tala",
-        "currencyNamePlural": "Tala",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "wst"
@@ -2081,10 +2081,10 @@
     "sm": {
         "countryCode": "SM",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "San Marino",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -2095,7 +2095,7 @@
         "currencySymbol": "STN",
         "name": "Sao Tome and Principe",
         "currencyName": "Dobra",
-        "currencyNamePlural": "Dobra",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "stn"
@@ -2103,10 +2103,10 @@
     "sa": {
         "countryCode": "SA",
         "currencyCode": "SAR",
-        "currencySymbol": "SAR",
+        "currencySymbol": "ر.س.‏",
         "name": "Saudi Arabia",
         "currencyName": "Saudi Royal",
-        "currencyNamePlural": "Saudi Royal",
+        "currencyNamePlural": "Saudi riyals",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "sar"
@@ -2114,22 +2114,22 @@
     "sn": {
         "countryCode": "SN",
         "currencyCode": "XOF",
-        "currencySymbol": "XOF",
+        "currencySymbol": "CFA",
         "name": "Senegal",
         "currencyName": "CFA Franc BCEAO",
-        "currencyNamePlural": "CFA Franc BCEAO",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "CFA francs BCEAO",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "xof"
     },
     "rs": {
         "countryCode": "RS",
         "currencyCode": "RSD",
-        "currencySymbol": "RSD",
+        "currencySymbol": "дин.",
         "name": "Serbia",
         "currencyName": "Serbian Dinar",
-        "currencyNamePlural": "Serbian Dinar",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Serbian dinars",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "rsd"
     },
@@ -2139,7 +2139,7 @@
         "currencySymbol": "SCR",
         "name": "Seychelles",
         "currencyName": "Seychelles Rupee",
-        "currencyNamePlural": "Seychelles Rupee",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "scr"
@@ -2150,7 +2150,7 @@
         "currencySymbol": "SLE",
         "name": "Sierra Leone",
         "currencyName": "Leone",
-        "currencyNamePlural": "Leone",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "sle"
@@ -2158,10 +2158,10 @@
     "sg": {
         "countryCode": "SG",
         "currencyCode": "SGD",
-        "currencySymbol": "SGD",
+        "currencySymbol": "$",
         "name": "Singapore",
         "currencyName": "Singapore Dollar",
-        "currencyNamePlural": "Singapore Dollar",
+        "currencyNamePlural": "Singapore dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "sgd"
@@ -2172,7 +2172,7 @@
         "currencySymbol": "ANG",
         "name": "Sint Maarten (Dutch part)",
         "currencyName": "Netherlands Antillean Guilder",
-        "currencyNamePlural": "Netherlands Antillean Guilder",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "ang"
@@ -2180,10 +2180,10 @@
     "sk": {
         "countryCode": "SK",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Slovakia",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -2191,10 +2191,10 @@
     "si": {
         "countryCode": "SI",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Slovenia",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -2205,7 +2205,7 @@
         "currencySymbol": "SBD",
         "name": "Solomon Islands",
         "currencyName": "Solomon Islands Dollar",
-        "currencyNamePlural": "Solomon Islands Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "sbd"
@@ -2213,21 +2213,21 @@
     "so": {
         "countryCode": "SO",
         "currencyCode": "SOS",
-        "currencySymbol": "SOS",
+        "currencySymbol": "Ssh",
         "name": "Somalia",
         "currencyName": "Somali Shilling",
-        "currencyNamePlural": "Somali Shilling",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Somali shillings",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "sos"
     },
     "za": {
         "countryCode": "ZA",
         "currencyCode": "ZAR",
-        "currencySymbol": "ZAR",
+        "currencySymbol": "R",
         "name": "South Africa",
         "currencyName": "Rand",
-        "currencyNamePlural": "Rand",
+        "currencyNamePlural": "South African rand",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "zar"
@@ -2235,10 +2235,10 @@
     "gs": {
         "countryCode": "GS",
         "currencyCode": "GBP",
-        "currencySymbol": "GBP",
+        "currencySymbol": "£",
         "name": "South Georgia and the South Sandwich Islands",
         "currencyName": "Pound Sterling",
-        "currencyNamePlural": "Pound Sterling",
+        "currencyNamePlural": "British pounds sterling",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "gbp"
@@ -2249,7 +2249,7 @@
         "currencySymbol": "SSP",
         "name": "South Sudan",
         "currencyName": "South Sudanese Pound",
-        "currencyNamePlural": "South Sudanese Pound",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "ssp"
@@ -2257,10 +2257,10 @@
     "es": {
         "countryCode": "ES",
         "currencyCode": "EUR",
-        "currencySymbol": "EUR",
+        "currencySymbol": "€",
         "name": "Spain",
         "currencyName": "Euro",
-        "currencyNamePlural": "Euro",
+        "currencyNamePlural": "euros",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "eur"
@@ -2268,10 +2268,10 @@
     "lk": {
         "countryCode": "LK",
         "currencyCode": "LKR",
-        "currencySymbol": "LKR",
+        "currencySymbol": "SL Re",
         "name": "Sri Lanka",
         "currencyName": "Sri Lanka Rupee",
-        "currencyNamePlural": "Sri Lanka Rupee",
+        "currencyNamePlural": "Sri Lankan rupees",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "lkr"
@@ -2282,7 +2282,7 @@
         "currencySymbol": "SDG",
         "name": "Sudan",
         "currencyName": "Sudanese Pound",
-        "currencyNamePlural": "Sudanese Pound",
+        "currencyNamePlural": "Sudanese pounds",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "sdg"
@@ -2293,7 +2293,7 @@
         "currencySymbol": "SRD",
         "name": "Suriname",
         "currencyName": "Surinam Dollar",
-        "currencyNamePlural": "Surinam Dollar",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "srd"
@@ -2301,10 +2301,10 @@
     "sj": {
         "countryCode": "SJ",
         "currencyCode": "NOK",
-        "currencySymbol": "NOK",
+        "currencySymbol": "kr",
         "name": "Svalbard and Jan Mayen",
         "currencyName": "Norwegian Krone",
-        "currencyNamePlural": "Norwegian Krone",
+        "currencyNamePlural": "Norwegian kroner",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "nok"
@@ -2315,7 +2315,7 @@
         "currencySymbol": "SZL",
         "name": "Swaziland",
         "currencyName": "Lilangeni",
-        "currencyNamePlural": "Lilangeni",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "szl"
@@ -2323,10 +2323,10 @@
     "se": {
         "countryCode": "SE",
         "currencyCode": "SEK",
-        "currencySymbol": "SEK",
+        "currencySymbol": "kr",
         "name": "Sweden",
         "currencyName": "Swedish Krona",
-        "currencyNamePlural": "Swedish Krona",
+        "currencyNamePlural": "Swedish kronor",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "sek"
@@ -2337,29 +2337,29 @@
         "currencySymbol": "CHF",
         "name": "Switzerland",
         "currencyName": "Swiss Franc",
-        "currencyNamePlural": "Swiss Franc",
+        "currencyNamePlural": "Swiss francs",
         "currencyDecimalDigits": 2,
-        "currencyRounding": 0,
+        "currencyRounding": 0.05,
         "numericCurrencyCode": "chf"
     },
     "sy": {
         "countryCode": "SY",
         "currencyCode": "SYP",
-        "currencySymbol": "SYP",
+        "currencySymbol": "ل.س.‏",
         "name": "Syrian Arab Republic",
         "currencyName": "Syrian Pound",
-        "currencyNamePlural": "Syrian Pound",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Syrian pounds",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "syp"
     },
     "tw": {
         "countryCode": "TW",
         "currencyCode": "TWD",
-        "currencySymbol": "TWD",
+        "currencySymbol": "NT$",
         "name": "Taiwan, Province of China",
         "currencyName": "New Taiwan Dollar",
-        "currencyNamePlural": "New Taiwan Dollar",
+        "currencyNamePlural": "New Taiwan dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "twd"
@@ -2370,7 +2370,7 @@
         "currencySymbol": "TJS",
         "name": "Tajikistan",
         "currencyName": "Somoni",
-        "currencyNamePlural": "Somoni",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "tjs"
@@ -2378,21 +2378,21 @@
     "tz": {
         "countryCode": "TZ",
         "currencyCode": "TZS",
-        "currencySymbol": "TZS",
+        "currencySymbol": "TSh",
         "name": "Tanzania, United Republic of",
         "currencyName": "Tanzanian Shilling",
-        "currencyNamePlural": "Tanzanian Shilling",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Tanzanian shillings",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "tzs"
     },
     "th": {
         "countryCode": "TH",
         "currencyCode": "THB",
-        "currencySymbol": "THB",
+        "currencySymbol": "฿",
         "name": "Thailand",
         "currencyName": "Baht",
-        "currencyNamePlural": "Baht",
+        "currencyNamePlural": "Thai baht",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "thb"
@@ -2400,10 +2400,10 @@
     "tl": {
         "countryCode": "TL",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "Timor-Leste",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -2411,21 +2411,21 @@
     "tg": {
         "countryCode": "TG",
         "currencyCode": "XOF",
-        "currencySymbol": "XOF",
+        "currencySymbol": "CFA",
         "name": "Togo",
         "currencyName": "CFA Franc BCEAO",
-        "currencyNamePlural": "CFA Franc BCEAO",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "CFA francs BCEAO",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "xof"
     },
     "tk": {
         "countryCode": "TK",
         "currencyCode": "NZD",
-        "currencySymbol": "NZD",
+        "currencySymbol": "$",
         "name": "Tokelau",
         "currencyName": "New Zealand Dollar",
-        "currencyNamePlural": "New Zealand Dollar",
+        "currencyNamePlural": "New Zealand dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "nzd"
@@ -2433,10 +2433,10 @@
     "to": {
         "countryCode": "TO",
         "currencyCode": "TOP",
-        "currencySymbol": "TOP",
+        "currencySymbol": "T$",
         "name": "Tonga",
         "currencyName": "Pa’anga",
-        "currencyNamePlural": "Pa’anga",
+        "currencyNamePlural": "Tongan paʻanga",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "top"
@@ -2444,10 +2444,10 @@
     "tt": {
         "countryCode": "TT",
         "currencyCode": "TTD",
-        "currencySymbol": "TTD",
+        "currencySymbol": "$",
         "name": "Trinidad and Tobago",
         "currencyName": "Trinidad and Tobago Dollar",
-        "currencyNamePlural": "Trinidad and Tobago Dollar",
+        "currencyNamePlural": "Trinidad and Tobago dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "ttd"
@@ -2455,18 +2455,18 @@
     "tn": {
         "countryCode": "TN",
         "currencyCode": "TND",
-        "currencySymbol": "TND",
+        "currencySymbol": "د.ت.‏",
         "name": "Tunisia",
         "currencyName": "Tunisian Dinar",
-        "currencyNamePlural": "Tunisian Dinar",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Tunisian dinars",
+        "currencyDecimalDigits": 3,
         "currencyRounding": 0,
         "numericCurrencyCode": "tnd"
     },
     "tr": {
         "countryCode": "TR",
         "currencyCode": "TRY",
-        "currencySymbol": "TRY",
+        "currencySymbol": "TL",
         "name": "Turkey",
         "currencyName": "Turkish Lira",
         "currencyNamePlural": "Turkish Lira",
@@ -2480,7 +2480,7 @@
         "currencySymbol": "TMT",
         "name": "Turkmenistan",
         "currencyName": "Turkmenistan New Manat",
-        "currencyNamePlural": "Turkmenistan New Manat",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "tmt"
@@ -2488,10 +2488,10 @@
     "tc": {
         "countryCode": "TC",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "Turks and Caicos Islands",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -2499,10 +2499,10 @@
     "tv": {
         "countryCode": "TV",
         "currencyCode": "AUD",
-        "currencySymbol": "AUD",
+        "currencySymbol": "$",
         "name": "Tuvalu",
         "currencyName": "Australian Dollar",
-        "currencyNamePlural": "Australian Dollar",
+        "currencyNamePlural": "Australian dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "aud"
@@ -2510,21 +2510,21 @@
     "ug": {
         "countryCode": "UG",
         "currencyCode": "UGX",
-        "currencySymbol": "UGX",
+        "currencySymbol": "USh",
         "name": "Uganda",
         "currencyName": "Uganda Shilling",
-        "currencyNamePlural": "Uganda Shilling",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Ugandan shillings",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "ugx"
     },
     "ua": {
         "countryCode": "UA",
         "currencyCode": "UAH",
-        "currencySymbol": "UAH",
+        "currencySymbol": "₴",
         "name": "Ukraine",
         "currencyName": "Hryvnia",
-        "currencyNamePlural": "Hryvnia",
+        "currencyNamePlural": "Ukrainian hryvnias",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "uah"
@@ -2532,10 +2532,10 @@
     "ae": {
         "countryCode": "AE",
         "currencyCode": "AED",
-        "currencySymbol": "AED",
+        "currencySymbol": "د.إ.‏",
         "name": "United Arab Emirates",
         "currencyName": "UAE Dirham",
-        "currencyNamePlural": "UAE Dirham",
+        "currencyNamePlural": "UAE dirhams",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "aed"
@@ -2543,10 +2543,10 @@
     "gb": {
         "countryCode": "GB",
         "currencyCode": "GBP",
-        "currencySymbol": "GBP",
+        "currencySymbol": "£",
         "name": "United Kingdom",
         "currencyName": "Pound Sterling",
-        "currencyNamePlural": "Pound Sterling",
+        "currencyNamePlural": "British pounds sterling",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "gbp"
@@ -2554,10 +2554,10 @@
     "us": {
         "countryCode": "US",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "United States",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -2565,10 +2565,10 @@
     "um": {
         "countryCode": "UM",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "United States Minor Outlying Islands",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -2576,10 +2576,10 @@
     "uy": {
         "countryCode": "UY",
         "currencyCode": "UYU",
-        "currencySymbol": "UYU",
+        "currencySymbol": "$",
         "name": "Uruguay",
         "currencyName": "Peso Uruguayo",
-        "currencyNamePlural": "Peso Uruguayo",
+        "currencyNamePlural": "Uruguayan pesos",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "uyu"
@@ -2590,8 +2590,8 @@
         "currencySymbol": "UZS",
         "name": "Uzbekistan",
         "currencyName": "Uzbekistan Sum",
-        "currencyNamePlural": "Uzbekistan Sum",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Uzbekistan som",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "uzs"
     },
@@ -2601,7 +2601,7 @@
         "currencySymbol": "VUV",
         "name": "Vanuatu",
         "currencyName": "Vatu",
-        "currencyNamePlural": "Vatu",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "vuv"
@@ -2609,10 +2609,10 @@
     "ve": {
         "countryCode": "VE",
         "currencyCode": "VEF",
-        "currencySymbol": "VEF",
+        "currencySymbol": "Bs.F.",
         "name": "Venezuela, Bolivarian Republic of",
         "currencyName": "Bolivar",
-        "currencyNamePlural": "Bolivar",
+        "currencyNamePlural": "Venezuelan bolívars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "vef"
@@ -2620,21 +2620,21 @@
     "vn": {
         "countryCode": "VN",
         "currencyCode": "VND",
-        "currencySymbol": "VND",
+        "currencySymbol": "₫",
         "name": "Viet Nam",
         "currencyName": "Dong",
-        "currencyNamePlural": "Dong",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Vietnamese dong",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "vnd"
     },
     "vg": {
         "countryCode": "VG",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "Virgin Islands, British",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -2642,10 +2642,10 @@
     "vi": {
         "countryCode": "VI",
         "currencyCode": "USD",
-        "currencySymbol": "USD",
+        "currencySymbol": "$",
         "name": "Virgin Islands, U.S.",
         "currencyName": "United States Dollar",
-        "currencyNamePlural": "United States Dollar",
+        "currencyNamePlural": "US dollars",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "usd"
@@ -2656,7 +2656,7 @@
         "currencySymbol": "XPF",
         "name": "Wallis and Futuna",
         "currencyName": "CFP Franc",
-        "currencyNamePlural": "CFP Franc",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "xpf"
@@ -2664,10 +2664,10 @@
     "eh": {
         "countryCode": "EH",
         "currencyCode": "MAD",
-        "currencySymbol": "MAD",
+        "currencySymbol": "د.م.‏",
         "name": "Western Sahara",
         "currencyName": "Moroccan Dirham",
-        "currencyNamePlural": "Moroccan Dirham",
+        "currencyNamePlural": "Moroccan dirhams",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "mad"
@@ -2678,7 +2678,7 @@
         "currencySymbol": "ZMW",
         "name": "Zambia",
         "currencyName": "Zambian Kwacha",
-        "currencyNamePlural": "Zambian Kwacha",
+        "currencyNamePlural": "",
         "currencyDecimalDigits": 2,
         "currencyRounding": 0,
         "numericCurrencyCode": "zmw"
@@ -2686,11 +2686,11 @@
     "zw": {
         "countryCode": "ZW",
         "currencyCode": "ZWL",
-        "currencySymbol": "ZWL",
+        "currencySymbol": "ZWL$",
         "name": "Zimbabwe",
         "currencyName": "Zimbabwe Dollar",
-        "currencyNamePlural": "Zimbabwe Dollar",
-        "currencyDecimalDigits": 2,
+        "currencyNamePlural": "Zimbabwean Dollar",
+        "currencyDecimalDigits": 0,
         "currencyRounding": 0,
         "numericCurrencyCode": "zwl"
     }
